@@ -72,6 +72,6 @@ Methodology:
 
 •	The final implementation after running through our code through different scenarios including multiple readers, multiple writers and if only reader and writer access the process at the same time.
 
-5. Results: 
+Results: 
 ![image](https://github.com/OS-SPRING23/final-project-asad-4945/assets/122202257/5473a3d5-a452-4535-82d8-7d94404a3dd0)
 
